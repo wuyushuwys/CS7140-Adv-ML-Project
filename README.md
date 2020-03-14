@@ -8,4 +8,13 @@ In this project, We use AMIGOS dataset, and there needs a license for download t
 This dataset includes some physical(facial expression) and psychological(EEG, EOG and GSR) signals and we use them to train and test our model.
 
 ## Our Work
+### EEG
+We extract the matrix of EEG signals from 'data_preprocessed' in the AMIGOS dataset.
+### ECG
+We extract the matrix of ECG signals from 'data_preprocessed' in the AMIGOS dataset.
+### GSR
+We extract the matrix of GSR signals from 'data_preprocessed' in the AMIGOS dataset.
+### Facial Expression
+We extract data of facial expression from 'dace_video' in the AMIGOS dataset.
+
 
