@@ -14,3 +14,11 @@ Substract the mean value of the baseline signal, which are 5 seconds (128*5 fram
 2 channels ECG signals from 'data_preprocessed' in the AMIGOS dataset.
 ### GSR
 1 channel GSR signal from 'data_preprocessed' in the AMIGOS dataset.
+
+## utils
+`model.py` includes 3 single models
+`utils.py` includes some performance computation,like accuracy and f1-scores.
+
+## main.py
+it includes our fusion model and test.
+
